@@ -22,6 +22,6 @@ func _on_join_pressed(): #manual ip config allows the player to join the host
 	multiplayer.multiplayer_peer = peer
 	
 
-
+#192.168.0.102
 
 

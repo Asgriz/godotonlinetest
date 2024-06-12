@@ -14,5 +14,5 @@ func _physics_process(delta): #enables the function of movement
 
 func update_animations(): #plays the animation for the player
 	ap.play("idle")
-	#ap.play("run")
+	
 	
